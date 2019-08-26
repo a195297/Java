@@ -8,7 +8,7 @@ public class ExpEvol {
 	JButton slime = new JButton();
 
 	public void expAdd() {
-		exp += 1;
+		exp += 2;
 	}
 
 	public int getExp() {
